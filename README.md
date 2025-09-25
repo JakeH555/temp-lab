@@ -13,3 +13,6 @@
 - [x] Drive to Uni
 - [x] get lost then find your way
 - [ ] finish your lab time
+```cs
+Console.WriteLine("Hello, World!");
+```

@@ -1,4 +1,3 @@
-# temp-lab
 # Level 1 heading
 ## Level 2 heading
 

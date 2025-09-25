@@ -9,7 +9,7 @@
 - Cheese
 - Mini Cheddars
 - Milk
--[x] Wake up
--[x] Drive to Uni
--[x] get lost then find your way
--[] finish your lab time
+- [x] Wake up
+- [x] Drive to Uni
+- [x] get lost then find your way
+- [] finish your lab time

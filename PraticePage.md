@@ -22,12 +22,12 @@ Console.WriteLine("Hello, World!");
 :eye:
 
 |Test Number|Input|Expected Output| Actual Output| Pass/Fail|
-|---|---|---|
-|1|"0", "50"|"the total charge for the car hire is £10"|"the total charge for the car hire is £10"|
-|2|"1", "50"|"the total charge for the car hire is £35"|"the total charge for the car hire is £35"|
-|3|"0", "49"|"the total charge for the car hire is £12.50"|"the total charge for the car hire is £12.50"|
-|4|"1", "30"|"the total charge for the car hire is £85"|"the total charge for the car hire is £85"|
-|5|"3", "50"|"the total charge for the car hire is £85"|"the total charge for the car hire is £85"|
-|6|"2", "15"|"the total charge for the car hire is £147.5"|"the total charge for the car hire is £147.50"|
-|7|"5", "20"|"the total charge for the car hire is £210"|"the total charge for the car hire is £210"|
-|8|Cheeseburger|"Program crashes- unhandled exception"|Program crashes- unhandled exception|
+|---|---|---|---|---|
+|1|"0", "50"|"the total charge for the car hire is £10"|"the total charge for the car hire is £10"|Pass |
+|2|"1", "50"|"the total charge for the car hire is £35"|"the total charge for the car hire is £35"|Pass |
+|3|"0", "49"|"the total charge for the car hire is £12.50"|"the total charge for the car hire is £12.50"|Pass|
+|4|"1", "30"|"the total charge for the car hire is £85"|"the total charge for the car hire is £85"|Pass |
+|5|"3", "50"|"the total charge for the car hire is £85"|"the total charge for the car hire is £85"|Pass |
+|6|"2", "15"|"the total charge for the car hire is £147.5"|"the total charge for the car hire is £147.50"|Pass|
+|7|"5", "20"|"the total charge for the car hire is £210"|"the total charge for the car hire is £210"|Pass|
+|8|Cheeseburger|"Program crashes- unhandled exception"|Program crashes- unhandled exception|Pass|
